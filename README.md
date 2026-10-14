@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual lab
+<b> Experiment|     <b>  Design and Analysis of an Instrumentation Amplifier for ECG Signal Extraction
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This is my Design and Analysis of an Instrumentation Amplifier for ECG Signal Extraction
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Sakshi Chaturvedi
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Rajkiya Engineering College , Banda| <b>  
+<b> chaturvedi.2313@gmail.com|     <b>  
+<b> Information Technology|  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Sakshi Chaturvedi | student | information technology | Rajkiya Engineering college , Banda| chaturvedi2313@gmail.com
 2 | . | . | . | . | .
