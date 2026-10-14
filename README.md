@@ -12,9 +12,9 @@ This is my Design and Analysis of an Instrumentation Amplifier for ECG Signal Ex
 
 <b>Name of Developer | <b> Sakshi Chaturvedi
 :--|:--|
-<b> Rajkiya Engineering College , Banda| <b>  
-<b> chaturvedi.2313@gmail.com|     <b>  
-<b> Information Technology|  
+<b> College Name | Rajkiya Engineering College , Banda| <b>  
+<b> Email Id | chaturvedi.2313@gmail.com|     <b>  
+<b> Branch |Information Technology|  <b>
 
 ### Contributors List
 
