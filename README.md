@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Virtual lab
+<b> Lab | <b> VR lab
 <b> Experiment|     <b>  Design and Analysis of an Instrumentation Amplifier for ECG Signal Extraction
 
 ### About the Experiment 
